@@ -64,14 +64,14 @@ I'm passionate about transforming raw data into intelligent systems that think, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guillembng&show_icons=true&theme=radical" alt="Guillem's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gsolersanz&show_icons=true&theme=radical" alt="Guillem's GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guillembng&theme=radical" alt="Guillem's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsolersanz&theme=radical" alt="Guillem's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guillembng&theme=radical" alt="Guillem's GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsolersanz&theme=radical" alt="Guillem's GitHub Summary" />
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=guillembng&theme=radical&column=7" alt="Guillem's GitHub Trophies" />
