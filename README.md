@@ -1,6 +1,6 @@
 # Hi there, I'm Guillem Soler 👋
 
-<img src="img/yo_2.png" alt="Guillem Soler" width="150" height="150" align="center" style="border-radius: 50%; object-fit: cover;">
+<img src="WhatsApp Image 2025-06-17 at 11.35.36" alt="Guillem Soler" width="150" height="150" align="center" style="border-radius: 50%; object-fit: cover;">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+AI+Engineer;LLM+%26+Autonomous+Agents+Explorer;Optimization+%26+Automation+Lover;" alt="Typing SVG" />
