@@ -55,12 +55,6 @@ I'm passionate about transforming raw data into intelligent systems that think, 
 
 *Check out my repositories for more AI experiments and data science adventures!*
 
-## 📚 Research & Publications
-
-**First Author Publications** (2025):
-- **CILC 2025** (Salamanca) - Statistical methodologies for multilingual sentiment analysis
-- **SEP XXXI Congress** (Madrid) - Innovation in Digital Journalism with advanced analytics
-
 ## 📊 GitHub Stats
 
 <div align="center">
