@@ -75,7 +75,7 @@ I'm passionate about transforming raw data into intelligent systems that think, 
 
 - **🇪🇸 Spanish**: Native
 - **🇪🇸 Catalan**: Native  
-- **🇬🇧 English**: B2 → C1 (because AI research is global!)
+- **🇬🇧 English**: C1 (because AI research is global!)
 
 ## 🤝 Let's Connect!
 
