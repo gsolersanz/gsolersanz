@@ -35,7 +35,7 @@ I'm passionate about transforming raw data into intelligent systems that think, 
 ## 🚀 My AI Journey
 
 - **🎓 AI Research Scientist** @ PRHLT Research Institute - Deep-diving into sentiment analysis with cutting-edge LLMs
-- **⚡ Data Engineer & AI Optimizer** @ Cartonajes Bernabeu - Revolutionized analytics from reactive to predictive (saved 18 hours/week!)
+- **⚡ Data Engineer & AI Optimizer** - Revolutionized analytics from reactive to predictive (saved 18 hours/week!)
 - **🎵 ML Engineer** @ ITI - Built PyTorch models for machine listening and audio intelligence
 - **📚 Master's in AI** @ University of Alicante - Thesis: "Audio Captioning: Statistical Analysis of Multimodal Audio-Text Relationships"
 
